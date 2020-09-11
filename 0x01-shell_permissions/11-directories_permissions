@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R 111 /Users/Joss/holberton-system_engineering-devops

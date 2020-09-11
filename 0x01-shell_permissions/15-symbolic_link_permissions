@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chown _hello betty
+chgrp _hello holberton

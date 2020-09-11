@@ -1,0 +1,1 @@
+This proyect is about learning permissions on the shel
